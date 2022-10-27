@@ -1,0 +1,8 @@
+.dark-cont {
+  background-color: #000000;
+  color: white;
+}
+.light-cont {
+  background-color: white;
+  color: black;
+}

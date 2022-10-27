@@ -1,0 +1,26 @@
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  list-style-type: none;
+}
+.header-image {
+  width: 45px;
+}
+.link-cont {
+  display: flex;
+
+  align-items: center;
+}
+p {
+  margin-left: 20px;
+}
+.dark-cont {
+  background-color: #333333;
+  color: white;
+}
+.light-cont {
+  background-color: white;
+  color: black;
+}
